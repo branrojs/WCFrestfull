@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <Factura>
+    <Id>10550</Id>
+    <IdCliente>Brandon</IdCliente>
+    <Tipo>Desktop</Tipo>
+    <Memoria>512</Memoria>
+    <Cpu>AMD</Cpu>
+    <Gpu>ATI Radeon</Gpu>
+    <DiscoDuro>1024 gb</DiscoDuro>
+    <Marca>Lenovo</Marca>
+    <Monitor>DELL 17</Monitor>
+    <Fecha>HOY</Fecha>
+    <Monto>500000</Monto>
+    <Estado>Proforma</Estado>
+  </Factura>
+  <Factura>
+    <Id>12345</Id>
+    <IdCliente>67890</IdCliente>
+    <Tipo>Laptop</Tipo>
+    <Memoria>1GB</Memoria>
+    <Cpu>Intel</Cpu>
+    <Gpu>NVIDIA</Gpu>
+    <DiscoDuro>1TB</DiscoDuro>
+    <Marca>TOSHIBA</Marca>
+    <Monitor>Incorporado</Monitor>
+    <Fecha>1-1-2017</Fecha>
+    <Monto>8000000</Monto>
+    <Estado>Vendido</Estado>
+  </Factura>
+</DocumentElement>

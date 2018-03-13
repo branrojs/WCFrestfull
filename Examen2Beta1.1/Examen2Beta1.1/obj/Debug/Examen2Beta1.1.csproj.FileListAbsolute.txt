@@ -1,0 +1,37 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+c:\users\felipe\documents\visual studio 2015\Projects\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
+F:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+F:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+F:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+F:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+F:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+F:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
+E:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+E:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+E:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+E:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+E:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+E:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
+D:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+D:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+D:\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
+D:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+D:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+D:\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+D:\Progra4\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll.config
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.dll
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\bin\Examen2Beta1.1.pdb
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csprojResolveAssemblyReference.cache
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.dll
+D:\Documentos\Universidad\Progra 4\examen 2\Examen2\Examen2Beta1.1\Examen2Beta1.1\obj\Debug\Examen2Beta1.1.pdb
